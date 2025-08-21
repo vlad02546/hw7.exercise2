@@ -1,18 +1,19 @@
-h2{
-    background-color:rgb(131, 107, 107) ;
-}
-h2{
+div[class=Business]{
+    background-color: #2F303A;
     color: white;
-}
-button{
-    background-color: blue;
-}
-button{
-    color: white;
-}
-footer{
-    background-color: rgb(131, 107, 107);
-}
-footer{
-    color: rgb(255, 255, 255);
-}
+    text-align: center;
+      
+      }
+      button{
+        background-color: #2196F3;
+        color: white;
+      }
+     footer{
+        background-color: #2F303A;
+        color: #ffffff;   
+     }
+     
+     
+    
+     
+     
